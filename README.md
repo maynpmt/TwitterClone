@@ -1,2 +1,2 @@
 # TwitterClone
-for practice html and javascript
+for practice html, javascript and css.
